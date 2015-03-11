@@ -1,23 +1,8 @@
 {
   "name": "bowertest",
-  "version": "0.0.1",
-  "homepage": "https://github.com/nicolasfareneau/bowertest",
-  "authors": [
-    "nicolas.fareneau <nicolas.fareneau@axa.fr>"
-  ],
-  "description": "bowertest",
-  "keywords": [
-    "bowertest"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
+  "version": "1.0.0",
+  "main": "./directive.js",
+  "ignore": [],
   "dependencies": {
-    "bowertest": "*"
   }
 }
